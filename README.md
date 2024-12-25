@@ -1,4 +1,4 @@
-content = """# Alexa Clone with SoundDevice Integration
+# Alexa Clone with SoundDevice Integration
 
 This project is a simple voice assistant (like Alexa) built using Python. It listens for commands using the microphone, processes the audio, and responds using text-to-speech. The assistant can play songs, tell the time, give jokes, and search Wikipedia, among other functionalities.
 
