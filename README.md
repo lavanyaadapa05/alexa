@@ -91,6 +91,6 @@ The program will continuously listen for the keyword "alexa" and process your vo
 ### Functionalities:
 - **Play songs**: The assistant can play songs on YouTube using the pywhatkit library by saying "play [song name]".
 - **Tell time**: The assistant can tell the current time by saying "time".
-- **Wikipedia search**: The assistant can fetch a summary of a person or topic from Wikipedia by saying "who the heck is [person]" or similar commands.
+- **Wikipedia search**: The assistant can fetch a summary of a person or topic from Wikipedia by saying "who is [person]" or similar commands.
 - **Tell jokes**: The assistant can tell random jokes using the pyjokes library.
 - **Handle unknown commands**: If the command is not recognized, the assistant prompts the user to repeat the command.
